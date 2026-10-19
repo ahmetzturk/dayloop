@@ -19,10 +19,8 @@ Kapsam ve iş planının ayrıntıları [`docs/`](docs/) klasöründe yer almakt
 
 ## Ekip
 
-| Üye | Rol |
-| --- | --- |
-| Ahmet Öztürk | Proje Yöneticisi, Geliştirici |
-| Aykut Demir | Halkla İlişkiler Sorumlusu, Geliştirici |
+- **Ahmet Öztürk** – Proje Yöneticisi, Geliştirici
+- **Aykut Demir** – Halkla İlişkiler Sorumlusu, Geliştirici
 
 ## Teknolojiler
 
@@ -34,7 +32,7 @@ Kapsam ve iş planının ayrıntıları [`docs/`](docs/) klasöründe yer almakt
 Gereksinimler: Flutter 3.47.7, Android Studio (Android SDK ve bir emülatör).
 
 ```bash
-git clone <repo-adresi>
+git clone https://github.com/ahmetzturk/dayloop.git
 cd dayloop
 flutter pub get
 flutter run
