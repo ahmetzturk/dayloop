@@ -16,9 +16,11 @@ Projenin ilk haftasında proje fikri ve ekip rolleri belirlendi, geliştirme ort
 - ✅ Flutter projesi oluşturuldu
 - ✅ Public GitHub reposu açıldı: <https://github.com/ahmetzturk/dayloop>
 - ✅ Aykut repoya collaborator olarak eklendi
-- 🔄 [Kurulum rehberi](../kurulum-rehberi.md) hazırlandı
-- 🔄 [Kapsam ve iş planı](../kapsam-ve-is-plani.md) ile organizasyon şeması hazırlandı
-- 🔄 [Ekran taslakları](../taslaklar/) ve ilk sunum hazırlandı
+- ✅ [Kurulum rehberi](../kurulum-rehberi.md) hazırlandı
+- ✅ [Kapsam ve iş planı](../kapsam-ve-is-plani.md) ile organizasyon şeması hazırlandı
+- ✅ [Ekran taslakları](../taslaklar/) hazırlandı
+- ✅ [Performans takibi](../performans-takibi.md) ve haftalık rapor düzeni kuruldu
+- 🔄 İlk sunum hazırlandı, ders içinde sunulacak (Aykut ile birlikte)
 
 ### Aykut Demir
 
@@ -45,7 +47,7 @@ Projenin ilk haftasında proje fikri ve ekip rolleri belirlendi, geliştirme ort
 
 ## GitHub katkıları
 
-- Ahmet Öztürk: 1 commit
+- Ahmet Öztürk: 7 commit
 - Aykut Demir: 0 commit
 
 ## Gelecek hafta planı

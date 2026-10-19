@@ -18,13 +18,14 @@ Proje yöneticisi bu dosyayı her hafta günceller. Proje sonunda her üyenin pe
 - ✅ Proje fikri ve rollerin belirlenmesi (18.10.2026, Aykut ile birlikte)
 - ✅ Geliştirme ortamının kurulması (18.10.2026)
 - ✅ GitHub reposunun açılması ve ilk commit (18.10.2026)
-- 🔄 Kurulum rehberi
-- 🔄 Kapsam ve iş planı dokümanı
-- 🔄 Ekran taslakları
-- 🔄 İlk sunum (Aykut ile birlikte, hedef: Hafta 6)
+- ✅ Kurulum rehberi (19.10.2026)
+- ✅ Kapsam ve iş planı dokümanı, organizasyon şeması (19.10.2026)
+- ✅ Ekran taslakları (19.10.2026)
+- ✅ Performans takibi ve haftalık rapor düzeninin kurulması (19.10.2026)
+- 🔄 İlk sunum: sunum hazırlandı, ders içinde sunulacak (Aykut ile birlikte, hedef: Hafta 6)
 - ⏳ Görev ekleme ve listeleme ekranları (hedef: Hafta 6)
 
-**Özet:** 3 tamamlandı, 4 devam ediyor, 1 başlamadı · 1 commit
+**Özet:** 7 tamamlandı, 1 devam ediyor, 1 başlamadı · 7 commit (19.10.2026 itibarıyla)
 
 ## Aykut Demir
 
