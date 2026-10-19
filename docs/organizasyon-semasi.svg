@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="624" viewBox="0 0 1200 624" font-family="Roboto, 'Segoe UI', Arial, sans-serif">
+  <rect x="0" y="0" width="1200" height="624" rx="24" fill="#F6F6FB"/>
+
+  <!-- Bağlantı çizgileri -->
+  <path d="M600 96 V128 M310 128 H890 M310 128 V160 M890 128 V160" fill="none" stroke="#9AA0BC" stroke-width="2"/>
+  <path d="M310 264 V284 M171 284 H449 M171 284 V304 M449 284 V304" fill="none" stroke="#9AA0BC" stroke-width="2"/>
+  <path d="M890 264 V284 M751 284 H1029 M751 284 V304 M1029 284 V304" fill="none" stroke="#9AA0BC" stroke-width="2"/>
+
+  <!-- Proje -->
+  <rect x="500" y="36" width="200" height="60" rx="30" fill="#1F2333"/>
+  <text x="600" y="74" font-size="24" font-weight="700" fill="#F6F6FB" text-anchor="middle">Dayloop</text>
+
+  <!-- Ahmet -->
+  <rect x="40" y="160" width="540" height="104" rx="18" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <text x="68" y="196" font-size="12.5" font-weight="700" letter-spacing="1" fill="#4F46E5">PROJE YÖNETİCİSİ · GELİŞTİRİCİ</text>
+  <text x="68" y="236" font-size="28" font-weight="700" fill="#1F2333">Ahmet Öztürk</text>
+  <circle cx="538" cy="212" r="24" fill="#E7E6FB"/>
+  <text x="538" y="219" font-size="20" font-weight="700" fill="#4F46E5" text-anchor="middle">A</text>
+
+  <!-- Aykut -->
+  <rect x="620" y="160" width="540" height="104" rx="18" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <text x="648" y="196" font-size="12.5" font-weight="700" letter-spacing="1" fill="#4F46E5">HALKLA İLİŞKİLER SORUMLUSU · GELİŞTİRİCİ</text>
+  <text x="648" y="236" font-size="28" font-weight="700" fill="#1F2333">Aykut Demir</text>
+  <circle cx="1118" cy="212" r="24" fill="#E7E6FB"/>
+  <text x="1118" y="219" font-size="20" font-weight="700" fill="#4F46E5" text-anchor="middle">A</text>
+
+  <!-- Ahmet: Yönetim -->
+  <rect x="40" y="304" width="262" height="196" rx="16" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <circle cx="66" cy="334" r="6" fill="#F59E0B"/>
+  <text x="80" y="340" font-size="17" font-weight="700" fill="#1F2333">Yönetim</text>
+  <circle cx="68" cy="365" r="2.5" fill="#9AA0BC"/><text x="80" y="370" font-size="15" fill="#4A5068">Proje planlaması</text>
+  <circle cx="68" cy="391" r="2.5" fill="#9AA0BC"/><text x="80" y="396" font-size="15" fill="#4A5068">Haftalık ilerleme raporları</text>
+  <circle cx="68" cy="417" r="2.5" fill="#9AA0BC"/><text x="80" y="422" font-size="15" fill="#4A5068">Performans takibi</text>
+  <circle cx="68" cy="443" r="2.5" fill="#9AA0BC"/><text x="80" y="448" font-size="15" fill="#4A5068">Görev dağılımı</text>
+
+  <!-- Ahmet: Geliştirme -->
+  <rect x="318" y="304" width="262" height="196" rx="16" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <circle cx="344" cy="334" r="6" fill="#4F46E5"/>
+  <text x="358" y="340" font-size="17" font-weight="700" fill="#1F2333">Geliştirme</text>
+  <circle cx="346" cy="365" r="2.5" fill="#9AA0BC"/><text x="358" y="370" font-size="15" fill="#4A5068">Görev yönetimi</text>
+  <circle cx="346" cy="391" r="2.5" fill="#9AA0BC"/><text x="358" y="396" font-size="15" fill="#4A5068">Bugün ekranı</text>
+  <circle cx="346" cy="417" r="2.5" fill="#9AA0BC"/><text x="358" y="422" font-size="15" fill="#4A5068">Hatırlatma bildirimleri</text>
+  <circle cx="346" cy="443" r="2.5" fill="#9AA0BC"/><text x="358" y="448" font-size="15" fill="#4A5068">YZ: doğal dilden görev</text>
+  <circle cx="346" cy="469" r="2.5" fill="#9AA0BC"/><text x="358" y="474" font-size="15" fill="#4A5068">YZ: günlük özet</text>
+
+  <!-- Aykut: Tanıtım -->
+  <rect x="620" y="304" width="262" height="196" rx="16" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <circle cx="646" cy="334" r="6" fill="#F59E0B"/>
+  <text x="660" y="340" font-size="17" font-weight="700" fill="#1F2333">Tanıtım</text>
+  <circle cx="648" cy="365" r="2.5" fill="#9AA0BC"/><text x="660" y="370" font-size="15" fill="#4A5068">Medium / blog yazıları</text>
+  <circle cx="648" cy="391" r="2.5" fill="#9AA0BC"/><text x="660" y="396" font-size="15" fill="#4A5068">Tanıtım materyalleri</text>
+  <circle cx="648" cy="417" r="2.5" fill="#9AA0BC"/><text x="660" y="422" font-size="15" fill="#4A5068">Ekran görüntüleri</text>
+  <circle cx="648" cy="443" r="2.5" fill="#9AA0BC"/><text x="660" y="448" font-size="15" fill="#4A5068">Paylaşımları rapora işleme</text>
+
+  <!-- Aykut: Geliştirme -->
+  <rect x="898" y="304" width="262" height="196" rx="16" fill="#FFFFFF" stroke="#E4E5EF"/>
+  <circle cx="924" cy="334" r="6" fill="#4F46E5"/>
+  <text x="938" y="340" font-size="17" font-weight="700" fill="#1F2333">Geliştirme</text>
+  <circle cx="926" cy="365" r="2.5" fill="#9AA0BC"/><text x="938" y="370" font-size="15" fill="#4A5068">Uygulama iskeleti, alt menü</text>
+  <circle cx="926" cy="391" r="2.5" fill="#9AA0BC"/><text x="938" y="396" font-size="15" fill="#4A5068">Notlar</text>
+  <circle cx="926" cy="417" r="2.5" fill="#9AA0BC"/><text x="938" y="422" font-size="15" fill="#4A5068">SQLite veritabanı</text>
+  <circle cx="926" cy="443" r="2.5" fill="#9AA0BC"/><text x="938" y="448" font-size="15" fill="#4A5068">Rutinler</text>
+  <circle cx="926" cy="469" r="2.5" fill="#9AA0BC"/><text x="938" y="474" font-size="15" fill="#4A5068">Ayarlar (dil, tema)</text>
+
+  <!-- Ortak -->
+  <rect x="40" y="524" width="1120" height="64" rx="18" fill="#EEEDFD" stroke="#D9D7FA"/>
+  <text x="600" y="562" font-size="17" fill="#1F2333" text-anchor="middle"><tspan font-weight="700">Birlikte:</tspan> Ders içi sunumlar</text>
+</svg>
