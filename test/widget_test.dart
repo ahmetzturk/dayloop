@@ -1,30 +1,46 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:dayloop/main.dart';
+import 'package:dayloop/app.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+  testWidgets('Uygulama Bugün ekranıyla açılıyor', (WidgetTester tester) async {
+    await tester.pumpWidget(const DayloopApp());
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    // Biri ekran başlığı, biri alt menüdeki sekme
+    expect(find.text('Bugün'), findsNWidgets(2));
+  });
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
+  testWidgets('Alt menüde beş sekme var', (WidgetTester tester) async {
+    await tester.pumpWidget(const DayloopApp());
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    expect(find.byType(NavigationDestination), findsNWidgets(5));
+  });
+
+  testWidgets('Sekmeye basınca ilgili ekran açılıyor', (
+    WidgetTester tester,
+  ) async {
+    await tester.pumpWidget(const DayloopApp());
+
+    for (final title in [
+      'Görevler',
+      'Notlar',
+      'Rutinler',
+      'Ayarlar',
+      'Bugün',
+    ]) {
+      await tester.tap(
+        find.descendant(
+          of: find.byType(NavigationBar),
+          matching: find.text(title),
+        ),
+      );
+      await tester.pumpAndSettle();
+
+      expect(
+        find.descendant(of: find.byType(AppBar), matching: find.text(title)),
+        findsOneWidget,
+      );
+    }
   });
 }
