@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="800" viewBox="0 0 380 800" font-family="Roboto, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <clipPath id="screen"><rect x="10" y="10" width="360" height="780" rx="36"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="380" height="800" rx="46" fill="#1F2333"/>
+  <g clip-path="url(#screen)">
+    <rect x="10" y="10" width="360" height="780" fill="#F6F6FB"/>
+
+    <!-- Durum çubuğu -->
+    <text x="36" y="37" font-size="14" font-weight="600" fill="#1F2333">09:41</text>
+    <rect x="296" y="33" width="3" height="4" rx="1" fill="#1F2333"/>
+    <rect x="301" y="30" width="3" height="7" rx="1" fill="#1F2333"/>
+    <rect x="306" y="27" width="3" height="10" rx="1" fill="#1F2333"/>
+    <rect x="311" y="24" width="3" height="13" rx="1" fill="#1F2333"/>
+    <rect x="322" y="26" width="22" height="11" rx="3" fill="none" stroke="#1F2333" stroke-width="1.5"/>
+    <rect x="324.5" y="28.5" width="14" height="6" rx="1.5" fill="#1F2333"/>
+    <rect x="345" y="29.5" width="2" height="4" rx="1" fill="#1F2333"/>
+
+    <!-- Başlık ve arama -->
+    <text x="30" y="100" font-size="28" font-weight="700" fill="#1F2333">Notlar</text>
+    <rect x="30" y="118" width="320" height="44" rx="22" fill="#FFFFFF" stroke="#E5E5EE"/>
+    <circle cx="51" cy="139" r="6" fill="none" stroke="#9CA3AF" stroke-width="2"/>
+    <path d="M55.5 143.5 l4.5 4.5" stroke="#9CA3AF" stroke-width="2" stroke-linecap="round"/>
+    <text x="70" y="145" font-size="14" fill="#9CA3AF">Notlarda ara</text>
+
+    <!-- Not kartları: sol sütun -->
+    <rect x="30" y="180" width="154" height="150" rx="16" fill="#FEF9C3"/>
+    <text x="44" y="206" font-size="14.5" font-weight="700" fill="#1F2333">Market listesi</text>
+    <text x="44" y="230" font-size="12.5" fill="#4B5563">Süt, yumurta,</text>
+    <text x="44" y="248" font-size="12.5" fill="#4B5563">ekmek, domates,</text>
+    <text x="44" y="266" font-size="12.5" fill="#4B5563">zeytin</text>
+    <text x="44" y="314" font-size="11" fill="#6B7280">Bugün</text>
+
+    <rect x="30" y="342" width="154" height="120" rx="16" fill="#EDE9FE"/>
+    <text x="44" y="368" font-size="14.5" font-weight="700" fill="#1F2333">Layout notları</text>
+    <text x="44" y="392" font-size="12.5" fill="#4B5563">Row, Column,</text>
+    <text x="44" y="410" font-size="12.5" fill="#4B5563">Expanded, Stack</text>
+    <text x="44" y="446" font-size="11" fill="#6B7280">17 Ekim</text>
+
+    <rect x="30" y="474" width="154" height="110" rx="16" fill="#FFE4E6"/>
+    <text x="44" y="500" font-size="14.5" font-weight="700" fill="#1F2333">Doğum günleri</text>
+    <text x="44" y="524" font-size="12.5" fill="#4B5563">Ayşe – 2 Kasım</text>
+    <text x="44" y="568" font-size="11" fill="#6B7280">12 Ekim</text>
+
+    <!-- Not kartları: sağ sütun -->
+    <rect x="196" y="180" width="154" height="110" rx="16" fill="#E0F2FE"/>
+    <text x="210" y="206" font-size="14.5" font-weight="700" fill="#1F2333">Proje fikirleri</text>
+    <text x="210" y="230" font-size="12.5" fill="#4B5563">Rutinlere</text>
+    <text x="210" y="248" font-size="12.5" fill="#4B5563">zamanlayıcı ekle</text>
+    <text x="210" y="274" font-size="11" fill="#6B7280">Dün</text>
+
+    <rect x="196" y="302" width="154" height="160" rx="16" fill="#DCFCE7"/>
+    <text x="210" y="328" font-size="14.5" font-weight="700" fill="#1F2333">Kitap önerileri</text>
+    <text x="210" y="352" font-size="12.5" fill="#4B5563">Atomik</text>
+    <text x="210" y="370" font-size="12.5" fill="#4B5563">Alışkanlıklar,</text>
+    <text x="210" y="388" font-size="12.5" fill="#4B5563">Derin Çalışma</text>
+    <text x="210" y="446" font-size="11" fill="#6B7280">15 Ekim</text>
+
+    <rect x="196" y="474" width="154" height="110" rx="16" fill="#F3F4F6"/>
+    <text x="210" y="500" font-size="14.5" font-weight="700" fill="#1F2333">Spor programı</text>
+    <text x="210" y="524" font-size="12.5" fill="#4B5563">Pzt: Koşu</text>
+    <text x="210" y="542" font-size="12.5" fill="#4B5563">Çar: Yüzme</text>
+    <text x="210" y="568" font-size="11" fill="#6B7280">10 Ekim</text>
+
+    <!-- Ekle butonu -->
+    <rect x="294" y="646" width="56" height="56" rx="18" fill="#4F46E5"/>
+    <path d="M322 662 v24 M310 674 h24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Alt menü -->
+    <rect x="10" y="718" width="360" height="72" fill="#FFFFFF"/>
+    <line x1="10" y1="718.5" x2="370" y2="718.5" stroke="#ECECF3"/>
+    <rect x="166" y="730" width="48" height="28" rx="14" fill="#E7E6FB"/>
+    <path d="M37 745 L46 737 L55 745 M39.5 743 V752 H52.5 V743" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="109.5" y="735.5" width="17" height="17" rx="4" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <path d="M113.5 744 l3 3 l5.5 -6" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M182 735 h11 l5 5 v13 h-16 z" fill="none" stroke="#4F46E5" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M186 744 h8 M186 748.5 h5.5" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+    <path d="M270 744 a8 8 0 1 1 -2.3 -5.7" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round"/>
+    <path d="M268.5 734 v5 h-5" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="334" cy="744" r="3" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <circle cx="334" cy="744" r="7.5" fill="none" stroke="#6B7280" stroke-width="3" stroke-dasharray="3 2.9"/>
+    <text x="46" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Bugün</text>
+    <text x="118" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Görevler</text>
+    <text x="190" y="776" font-size="11" font-weight="700" fill="#4F46E5" text-anchor="middle">Notlar</text>
+    <text x="262" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Rutinler</text>
+    <text x="334" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Ayarlar</text>
+  </g>
+  <circle cx="190" cy="27" r="5.5" fill="#1F2333"/>
+</svg>

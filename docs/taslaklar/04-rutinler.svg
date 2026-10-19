@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="800" viewBox="0 0 380 800" font-family="Roboto, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <clipPath id="screen"><rect x="10" y="10" width="360" height="780" rx="36"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="380" height="800" rx="46" fill="#1F2333"/>
+  <g clip-path="url(#screen)">
+    <rect x="10" y="10" width="360" height="780" fill="#F6F6FB"/>
+
+    <!-- Durum çubuğu -->
+    <text x="36" y="37" font-size="14" font-weight="600" fill="#1F2333">09:41</text>
+    <rect x="296" y="33" width="3" height="4" rx="1" fill="#1F2333"/>
+    <rect x="301" y="30" width="3" height="7" rx="1" fill="#1F2333"/>
+    <rect x="306" y="27" width="3" height="10" rx="1" fill="#1F2333"/>
+    <rect x="311" y="24" width="3" height="13" rx="1" fill="#1F2333"/>
+    <rect x="322" y="26" width="22" height="11" rx="3" fill="none" stroke="#1F2333" stroke-width="1.5"/>
+    <rect x="324.5" y="28.5" width="14" height="6" rx="1.5" fill="#1F2333"/>
+    <rect x="345" y="29.5" width="2" height="4" rx="1" fill="#1F2333"/>
+
+    <!-- Başlık -->
+    <text x="30" y="100" font-size="28" font-weight="700" fill="#1F2333">Rutinler</text>
+    <text x="30" y="124" font-size="13" fill="#6B7280">Tekrar eden işlerini adım adım tamamla</text>
+
+    <!-- Sabah rutini (açık) -->
+    <rect x="30" y="146" width="320" height="262" rx="18" fill="#FFFFFF" stroke="#ECECF3"/>
+    <circle cx="62" cy="180" r="16" fill="#FEF3C7"/>
+    <circle cx="62" cy="180" r="6" fill="#F59E0B"/>
+    <text x="88" y="177" font-size="16" font-weight="700" fill="#1F2333">Sabah Rutini</text>
+    <text x="88" y="196" font-size="12" fill="#6B7280">Her gün · 07:30</text>
+    <text x="334" y="186" font-size="13" font-weight="700" fill="#4F46E5" text-anchor="end">2 / 4</text>
+    <rect x="46" y="212" width="288" height="6" rx="3" fill="#E5E5EE"/>
+    <rect x="46" y="212" width="144" height="6" rx="3" fill="#4F46E5"/>
+
+    <rect x="46" y="238" width="20" height="20" rx="6" fill="#16A34A"/>
+    <path d="M50.5 248 l4 4 l7 -8" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="80" y="253" font-size="14.5" fill="#9CA3AF" text-decoration="line-through">Bir bardak su iç</text>
+
+    <rect x="46" y="282" width="20" height="20" rx="6" fill="#16A34A"/>
+    <path d="M50.5 292 l4 4 l7 -8" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="80" y="297" font-size="14.5" fill="#9CA3AF" text-decoration="line-through">10 dakika esneme</text>
+
+    <rect x="47" y="327" width="18" height="18" rx="5" fill="none" stroke="#4F46E5" stroke-width="2"/>
+    <text x="80" y="341" font-size="14.5" font-weight="600" fill="#1F2333">Kahvaltı yap</text>
+    <rect x="262" y="324" width="72" height="24" rx="12" fill="#EEEDFD"/>
+    <text x="298" y="340" font-size="11" font-weight="700" fill="#4F46E5" text-anchor="middle">Sıradaki</text>
+
+    <rect x="47" y="371" width="18" height="18" rx="5" fill="none" stroke="#C7C7D1" stroke-width="2"/>
+    <text x="80" y="385" font-size="14.5" fill="#1F2333">E-postaları kontrol et</text>
+
+    <!-- Ders çalışma -->
+    <rect x="30" y="424" width="320" height="72" rx="18" fill="#FFFFFF" stroke="#ECECF3"/>
+    <circle cx="62" cy="460" r="16" fill="#DBEAFE"/>
+    <rect x="55" y="453" width="14" height="14" rx="2" fill="#3B82F6"/>
+    <text x="88" y="456" font-size="16" font-weight="700" fill="#1F2333">Ders Çalışma</text>
+    <text x="88" y="476" font-size="12" fill="#6B7280">Hafta içi · 19:00</text>
+    <text x="334" y="466" font-size="13" fill="#6B7280" text-anchor="end">0 / 3</text>
+
+    <!-- Akşam rutini -->
+    <rect x="30" y="508" width="320" height="72" rx="18" fill="#FFFFFF" stroke="#ECECF3"/>
+    <circle cx="62" cy="544" r="16" fill="#E0E7FF"/>
+    <circle cx="62" cy="544" r="6.5" fill="#6366F1"/>
+    <circle cx="65" cy="541" r="5.5" fill="#E0E7FF"/>
+    <text x="88" y="540" font-size="16" font-weight="700" fill="#1F2333">Akşam Rutini</text>
+    <text x="88" y="560" font-size="12" fill="#6B7280">Her gün · 22:30</text>
+    <text x="334" y="550" font-size="13" fill="#6B7280" text-anchor="end">0 / 5</text>
+
+    <!-- Ekle butonu -->
+    <rect x="294" y="646" width="56" height="56" rx="18" fill="#4F46E5"/>
+    <path d="M322 662 v24 M310 674 h24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Alt menü -->
+    <rect x="10" y="718" width="360" height="72" fill="#FFFFFF"/>
+    <line x1="10" y1="718.5" x2="370" y2="718.5" stroke="#ECECF3"/>
+    <rect x="238" y="730" width="48" height="28" rx="14" fill="#E7E6FB"/>
+    <path d="M37 745 L46 737 L55 745 M39.5 743 V752 H52.5 V743" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="109.5" y="735.5" width="17" height="17" rx="4" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <path d="M113.5 744 l3 3 l5.5 -6" fill="none" stroke="#6B7280" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M182 735 h11 l5 5 v13 h-16 z" fill="none" stroke="#6B7280" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M186 744 h8 M186 748.5 h5.5" stroke="#6B7280" stroke-width="2" stroke-linecap="round"/>
+    <path d="M270 744 a8 8 0 1 1 -2.3 -5.7" fill="none" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+    <path d="M268.5 734 v5 h-5" fill="none" stroke="#4F46E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="334" cy="744" r="3" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <circle cx="334" cy="744" r="7.5" fill="none" stroke="#6B7280" stroke-width="3" stroke-dasharray="3 2.9"/>
+    <text x="46" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Bugün</text>
+    <text x="118" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Görevler</text>
+    <text x="190" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Notlar</text>
+    <text x="262" y="776" font-size="11" font-weight="700" fill="#4F46E5" text-anchor="middle">Rutinler</text>
+    <text x="334" y="776" font-size="11" fill="#6B7280" text-anchor="middle">Ayarlar</text>
+  </g>
+  <circle cx="190" cy="27" r="5.5" fill="#1F2333"/>
+</svg>
