@@ -4,7 +4,7 @@
 - **Proje yöneticisi:** Ahmet Öztürk
 - **Ekip:** Ahmet Öztürk, Aykut Demir
 - **Repo:** <https://github.com/ahmetzturk/dayloop>
-- **Güncelleme:** 19 Ekim 2026
+- **Güncelleme:** 1 Kasım 2026
 
 ## 1. Amaç
 
@@ -114,12 +114,12 @@ Haftalar dersin haftalarıdır.
 
 ### Hafta 7
 
-- Ahmet: Bugün ekranı
+- Ahmet: Hatırlatma bildirimleri
 - Aykut: SQLite veritabanı altyapısı, görevlerin kaydedilmesi
 
 ### Hafta 8
 
-- Ahmet: Hatırlatma bildirimleri
+- Ahmet: Bugün ekranı (görevler SQLite'tan okunur)
 - Aykut: Notlar
 
 ### Hafta 9–10
