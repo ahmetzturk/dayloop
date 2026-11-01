@@ -2,7 +2,7 @@
 
 Proje yöneticisi bu dosyayı her hafta günceller. Proje sonunda her üyenin performans raporu bu kayıtlardan hazırlanır.
 
-**Son güncelleme:** 19 Ekim 2026
+**Son güncelleme:** 1 Kasım 2026
 
 **İşaretler:** ✅ Tamamlandı · 🔄 Devam ediyor · ⏳ Başlamadı · ⚠️ Gecikti
 
@@ -22,18 +22,21 @@ Proje yöneticisi bu dosyayı her hafta günceller. Proje sonunda her üyenin pe
 - ✅ Kapsam ve iş planı dokümanı, organizasyon şeması (19.10.2026)
 - ✅ Ekran taslakları (19.10.2026)
 - ✅ Performans takibi ve haftalık rapor düzeninin kurulması (19.10.2026)
-- 🔄 İlk sunum: sunum hazırlandı, ders içinde sunulacak (Aykut ile birlikte, hedef: Hafta 6)
-- ⏳ Görev ekleme ve listeleme ekranları (hedef: Hafta 6)
+- ✅ Uygulama iskeleti Pull Request'inin (#1) incelenmesi ve birleştirilmesi (19.10.2026)
+- 🔄 İlk sunum: sunum hazırlandı, ders içinde sunulacak (Aykut ile birlikte)
+- 🔄 Görev ekleme ve listeleme ekranları: tamamlandı, Pull Request (#2) incelemede (01.11.2026)
+- ⏳ Hatırlatma bildirimleri
 
-**Özet:** 7 tamamlandı, 1 devam ediyor, 1 başlamadı · 7 commit (19.10.2026 itibarıyla)
+**Özet:** 8 tamamlandı, 2 devam ediyor, 1 başlamadı · 12 commit (8'i `main`'de, 4'ü PR #2'de), 1 Pull Request (01.11.2026 itibarıyla)
 
 ## Aykut Demir
 
 - ✅ Proje fikri ve rollerin belirlenmesi (18.10.2026, Ahmet ile birlikte)
 - ✅ Repo davetinin kabul edilmesi (19.10.2026)
 - ✅ Geliştirme ortamının kurulması (19.10.2026)
-- 🔄 İlk sunum (Ahmet ile birlikte, hedef: Hafta 6)
-- ⏳ Tanıtım kanalının açılması ve ilk paylaşım (hedef: Hafta 6)
-- ⏳ Uygulama iskeleti ve alt menü (hedef: Hafta 6)
+- ✅ Uygulama iskeleti ve alt menü (19.10.2026, Pull Request #1)
+- 🔄 İlk sunum (Ahmet ile birlikte)
+- 🔄 Tanıtım kanalının açılması ve ilk paylaşım: ilk Medium yazısı hazırlanıyor
+- ⏳ SQLite veritabanı altyapısı ve görevlerin kaydedilmesi
 
-**Özet:** 3 tamamlandı, 1 devam ediyor, 2 başlamadı · 0 commit
+**Özet:** 4 tamamlandı, 2 devam ediyor, 1 başlamadı · 4 commit, 1 Pull Request (01.11.2026 itibarıyla)
