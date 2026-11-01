@@ -6,7 +6,7 @@
 
 ## Özet
 
-Uygulamanın kodlanmasına başlandı. Aykut uygulama iskeletini ve alt menüyü tamamladı, Pull Request ile `main`'e birleştirildi. Ahmet görev ekleme ve listeleme ekranlarını tamamladı, Pull Request incelemede. İlk tanıtım paylaşımı gecikti, hazırlanıyor. İlk sunum ders takvimi nedeniyle ileri bir tarihe kaldı.
+Uygulamanın kodlanmasına başlandı. Aykut uygulama iskeletini ve alt menüyü, Ahmet görev ekleme ve listeleme ekranlarını tamamladı; iki Pull Request de karşılıklı incelenip `main`'e birleştirildi. İlk tanıtım paylaşımı gecikti, hazırlanıyor. İlk sunum ders takvimi nedeniyle 18.11.2026'ya kaldı.
 
 ## Bu hafta yapılanlar
 
@@ -15,13 +15,14 @@ Uygulamanın kodlanmasına başlandı. Aykut uygulama iskeletini ve alt menüyü
 - ✅ Aykut'un uygulama iskeleti Pull Request'i (#1) incelendi, onaylandı ve birleştirildi
 - ✅ Görev modeli, yeni görev formu ve görev listesi ekranı yazıldı
 - ✅ Görev ekranları için widget testleri yazıldı
-- 🔄 Görev ekranları Pull Request'i (#2) açıldı, Aykut'un incelemesini bekliyor
+- ✅ Görev ekranları Pull Request'i (#2) açıldı, Aykut'un onayıyla birleştirildi
 
 ### Aykut Demir
 
 - ✅ Uygulama iskeleti ve tema hazırlandı
 - ✅ Beş ana ekran (Bugün, Görevler, Notlar, Rutinler, Ayarlar) ve alt menü ile geçiş eklendi
 - ✅ Alt menü için widget testleri yazıldı
+- ✅ Ahmet'in görev ekranları Pull Request'i (#2) incelendi, onaylandı ve birleştirildi
 - 🔄 İlk Medium tanıtım yazısı hazırlanıyor
 
 ## Karşılaşılan sorunlar ve çözümleri
@@ -35,10 +36,10 @@ Uygulamanın kodlanmasına başlandı. Aykut uygulama iskeletini ve alt menüyü
 
 ## GitHub katkıları
 
-- Ahmet Öztürk: 5 commit (1'i doküman, 4'ü PR #2'de), 1 Pull Request; PR #1'in incelenmesi ve birleştirilmesi
-- Aykut Demir: 4 commit, 1 Pull Request (#1, birleştirildi)
+- Ahmet Öztürk: 8 commit (4'ü kod, 4'ü doküman), 1 Pull Request (#2, birleştirildi); PR #1'in incelenmesi ve birleştirilmesi
+- Aykut Demir: 4 commit, 1 Pull Request (#1, birleştirildi); PR #2'nin incelenmesi ve birleştirilmesi
 
 ## Gelecek hafta planı
 
-- **Ahmet:** PR #2'nin birleştirilmesi, hatırlatma bildirimlerine başlanması
-- **Aykut:** PR #2'nin incelenmesi, SQLite veritabanı altyapısı ve görevlerin kaydedilmesi, ilk Medium yazısının yayınlanması
+- **Ahmet:** Hatırlatma bildirimlerine başlanması
+- **Aykut:** SQLite veritabanı altyapısı ve görevlerin kaydedilmesi, ilk Medium yazısının yayınlanması
